@@ -1,0 +1,10 @@
+C:\Users\ucenik\source\repos\ImageList Komponenta\bin\Debug\ImageList Komponenta.exe.config
+C:\Users\ucenik\source\repos\ImageList Komponenta\bin\Debug\ImageList Komponenta.exe
+C:\Users\ucenik\source\repos\ImageList Komponenta\bin\Debug\ImageList Komponenta.pdb
+C:\Users\ucenik\source\repos\ImageList Komponenta\obj\Debug\ImageList Komponenta.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ImageList Komponenta\obj\Debug\ImageList_Komponenta.Form1.resources
+C:\Users\ucenik\source\repos\ImageList Komponenta\obj\Debug\ImageList_Komponenta.Properties.Resources.resources
+C:\Users\ucenik\source\repos\ImageList Komponenta\obj\Debug\ImageList Komponenta.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\ImageList Komponenta\obj\Debug\ImageList Komponenta.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ImageList Komponenta\obj\Debug\ImageList Komponenta.exe
+C:\Users\ucenik\source\repos\ImageList Komponenta\obj\Debug\ImageList Komponenta.pdb
